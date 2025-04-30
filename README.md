@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cabin&duration=3000&color=61d9fa&size=30&lines=Hey!+I'm+Ashwani!;I'm+a+Final+Year+at+VIT+Vellore;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cabin&duration=3000&color=61d9fa&size=30&lines=Hey!+I'm+Ashwani!;I'm+a+Final+Year+Student+at+VIT+Vellore;)](https://git.io/typing-svg)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
